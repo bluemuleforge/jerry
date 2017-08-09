@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Blue Mule Forge</h1>
-<p>Prescott, Arizona</p>
-</body>
-</html>
